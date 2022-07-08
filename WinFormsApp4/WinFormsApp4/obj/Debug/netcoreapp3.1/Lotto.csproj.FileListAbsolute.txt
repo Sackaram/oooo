@@ -1,0 +1,16 @@
+C:\Users\vicke\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\Lotto.exe
+C:\Users\vicke\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\Lotto.deps.json
+C:\Users\vicke\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\Lotto.runtimeconfig.json
+C:\Users\vicke\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\Lotto.runtimeconfig.dev.json
+C:\Users\vicke\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\Lotto.dll
+C:\Users\vicke\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\Lotto.pdb
+C:\Users\vicke\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\Lotto.csproj.AssemblyReference.cache
+C:\Users\vicke\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.Form1.resources
+C:\Users\vicke\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\Lotto.csproj.GenerateResource.cache
+C:\Users\vicke\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\Lotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicke\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\Lotto.AssemblyInfoInputs.cache
+C:\Users\vicke\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\Lotto.AssemblyInfo.cs
+C:\Users\vicke\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\vicke\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\Lotto.dll
+C:\Users\vicke\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\Lotto.pdb
+C:\Users\vicke\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\Lotto.genruntimeconfig.cache

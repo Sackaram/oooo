@@ -1,0 +1,16 @@
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\Kalk_test1.exe
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\Kalk_test1.deps.json
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\Kalk_test1.runtimeconfig.json
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\Kalk_test1.runtimeconfig.dev.json
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\Kalk_test1.dll
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\Kalk_test1.pdb
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form1.resources
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Kalk_test1.csproj.GenerateResource.cache
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Kalk_test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Kalk_test1.AssemblyInfoInputs.cache
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Kalk_test1.AssemblyInfo.cs
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Kalk_test1.csproj.CoreCompileInputs.cache
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Kalk_test1.dll
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Kalk_test1.pdb
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Kalk_test1.genruntimeconfig.cache
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Kalk_test1.csproj.AssemblyReference.cache

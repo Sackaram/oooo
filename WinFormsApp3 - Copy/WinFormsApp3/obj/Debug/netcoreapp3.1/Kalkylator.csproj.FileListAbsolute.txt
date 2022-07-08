@@ -1,0 +1,16 @@
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\Kalkylator.exe
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\Kalkylator.deps.json
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\Kalkylator.runtimeconfig.json
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\Kalkylator.runtimeconfig.dev.json
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\Kalkylator.dll
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\Kalkylator.pdb
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Kalkylator.csproj.AssemblyReference.cache
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form1.resources
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Kalkylator.csproj.GenerateResource.cache
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Kalkylator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Kalkylator.AssemblyInfoInputs.cache
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Kalkylator.AssemblyInfo.cs
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Kalkylator.csproj.CoreCompileInputs.cache
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Kalkylator.dll
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Kalkylator.pdb
+C:\Users\vicke\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Kalkylator.genruntimeconfig.cache
